@@ -1,0 +1,5 @@
+name: ExamplePlugin
+main: ExamplePlugin.ExamplePlugin
+author: Kims
+version : "0.1-dev"
+api: ["1.0.0"]
