@@ -31,7 +31,7 @@ public class MainClass extends PluginBase {
         //이벤트 리스너 등록
         this.getServer().getPluginManager().registerEvents(new EventListener(this), this);
 
-        //플러긍니 테스크
+        //플러그인 테스크
         this.getServer().getScheduler().scheduleRepeatingTask(new BroadcastPluginTask(this), 200);
 
         //리소스 저장

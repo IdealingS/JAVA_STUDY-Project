@@ -13,5 +13,5 @@ commands:
     permission: exampleplugin.command.example
 permissions:
   exampleplugin.command.example:
-    description: "Å×½ºÆ® ¸í·É¾î"
+    description: "í…ŒìŠ¤íŠ¸ ëª…ë ¹ì–´"
     default: true
