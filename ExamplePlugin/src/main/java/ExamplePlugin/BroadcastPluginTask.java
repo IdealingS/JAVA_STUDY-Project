@@ -14,6 +14,6 @@ public class BroadcastPluginTask extends PluginTask<MainClass> {
 
     @Override
     public void onRun(int currentTick) {
-        this.getOwner().getLogger().info("틱" + currentTick + "에서 플러그인 작동중.");
+        this.getOwner().getLogger().info("틱 번호 '" + currentTick + "' 에서 플러그인 작동중.");
     }
 }

@@ -56,7 +56,7 @@ public class MainClass extends PluginBase {
 
     @Override
     public void onDisable() {
-        this.getLogger().info(TextFormat.DARK_RED + "비황성화 되었습니다.");
+        this.getLogger().info(TextFormat.DARK_RED + "비활성화 되었습니다.");
     }
 
     @Override
