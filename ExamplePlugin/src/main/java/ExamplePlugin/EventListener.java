@@ -6,7 +6,7 @@ import cn.nukkit.event.Listener;
 import cn.nukkit.event.server.ServerCommandEvent;
 
 /**
- * author: Kims(Translate)
+ * author: MagicDroidX(Translate by Kims)
  * NukkitExamplePlugin Project
  */
 public class EventListener implements Listener {

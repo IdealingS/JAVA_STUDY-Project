@@ -3,7 +3,7 @@ package ExamplePlugin;
 import cn.nukkit.scheduler.PluginTask;
 
 /**
- * author: Kims(Translate)
+ * author: MagicDroidX(Translate by Kims)
  * ExamplePlugin Project
  */
 public class BroadcastPluginTask extends PluginTask<MainClass> {

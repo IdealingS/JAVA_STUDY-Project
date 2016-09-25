@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.LinkedHashMap;
 
 /**
- * author: Kims(Translate)
+ * author: MagicDroidX(Translate by Kims)
  * NukkitExamplePlugin Project
  */
 public class MainClass extends PluginBase {
