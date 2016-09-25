@@ -1,0 +1,16 @@
+name: PocketBot
+main: PocketBot.Main
+author: ZINGDING
+version: "0.1-release"
+api: ["1.0.0"]
+
+commands:
+ 포켓봇:
+   permission: 포켓봇
+   description: PocketBot control commands
+   usage: /포켓봇
+
+permissions:
+ 포켓봇:
+  default: true
+  description: Allows commands of PocketBot
