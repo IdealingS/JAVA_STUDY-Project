@@ -4,9 +4,8 @@ version: "1.0.0"
 api: ["1.0.0"]
 
 load: POSTWORLD
-author: Nukkit Project
-description: Example plugin showing the API
-website: https://github.com/Nukkit/ExamplePlugin
+author: Kims
+description: Example Plugin
 commands:
   example:
     description: Example command
@@ -14,5 +13,5 @@ commands:
     permission: exampleplugin.command.example
 permissions:
   exampleplugin.command.example:
-    description: "Allows the user to run the example command"
+    description: "테스트 명령어"
     default: true
