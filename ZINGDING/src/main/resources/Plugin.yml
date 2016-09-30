@@ -1,5 +1,5 @@
 name: PocketBot
-main: PocketBot.Main
+main: PocketBot.Main.Main
 author: ZINGDING
 version: "0.1-release"
 api: ["1.0.0"]
